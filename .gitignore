@@ -1,0 +1,15 @@
+# Ignorar o diretório node_modules
+node_modules/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração específicos
+config/database.yml
+
+# Ignorar arquivos temporários
+tmp/
+*.tmp
+
+# Ignorar todos os arquivos .env
+.env

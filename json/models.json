@@ -1,0 +1,31 @@
+{
+    "models": 
+    [
+        { "name": "CL", "id_brand": 1 },
+        { "name": "CSX", "id_brand": 1 },
+        { "name": "EL", "id_brand": 1 },
+        { "name": "ILX", "id_brand": 1 },
+        { "name": "INTEGRA", "id_brand": 1 },
+        { "name": "LEGEND", "id_brand": 1 },
+        { "name": "MDX", "id_brand": 1 },
+        { "name": "NSX", "id_brand": 1 },
+        { "name": "RDX", "id_brand": 1 },
+        { "name": "RLX", "id_brand": 1 },
+        { "name": "RSX", "id_brand": 1 },
+        { "name": "SLX", "id_brand": 1 },
+        { "name": "TLX", "id_brand": 1 },
+        { "name": "TSX", "id_brand": 1 },
+        { "name": "VIGOR", "id_brand": 1 },
+        { "name": "ZDX", "id_brand": 1 },
+        { "name": "GT", "id_brand": 2 },
+        { "name": "GT-2", "id_brand": 2 },
+        { "name": "GTL", "id_brand": 2 },
+        { "name": "GTM", "id_brand": 2 },
+        { "name": "GTM C2", "id_brand": 2 },
+        { "name": "CRX", "id_brand": 2 },
+        { "name": "AC2000", "id_brand": 2 }
+    ]
+}
+  
+
+
